@@ -1,3 +1,8 @@
+---
+description: Pair programming continuation
+allowed-tools: Bash(git:*), Bash(codex:*), Bash(cat:*), Bash(wc:*)
+---
+
 continue pair programming:
 - review partners work
 - verify for correctness

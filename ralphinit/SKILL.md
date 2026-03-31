@@ -1,3 +1,8 @@
+---
+description: Start a ralph style looping session
+allowed-tools: Bash(git:*), Bash(codex:*), Bash(cat:*), Bash(wc:*)
+---
+
 # Initialize Project Documentation from System Plan
 
 You are initializing a new project for agent-driven development. The user has provided a `current_SYSTEM-PLAN.md` file in the current working directory that describes the system architecture and goals.
@@ -56,8 +61,6 @@ Write a comprehensive PRD with **testable requirements** extracted from the syst
 ]
 ```
 
----
-
 ## Summary Statistics
 
 | Category | Count |
@@ -67,13 +70,9 @@ Write a comprehensive PRD with **testable requirements** extracted from the syst
 | ... | ... |
 | **Total** | **X** |
 
----
-
 ## Development Stages Mapping
 
 Map requirements to development stages from the system plan.
-
----
 
 ## Open Questions
 
